@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Marhiposa 
-- 👀 I’m interested in CONTRIBUTING to user experience design in any project
-- 🌱 I’m currently learning PRODUCT DESIGN
-- 💞️ I’m looking to collaborate on project that helps improve user experience 
-- 📫 How to reach me @ mariamakinbode@outlook.com
+Hello I'm @Marhiposa
+- 👀 I'm enthusiastic about CONTRIBUTING to user experience design on various projects.
+- 🌱 I'm in the process of honing my skills in PRODUCT DESIGN.
+- 💞️ I'm eager to collaborate on projects aimed at enhancing user experiences.
+- 📫 You can get in touch with me at mariamakinbode@outlook.com.
 
 <!---
 Marhiposa/Marhiposa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
